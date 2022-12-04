@@ -43,7 +43,7 @@ function App() {
     <div className="App">
       <header>
         <div className="header">
-          <h1 className="title">Money Calculator</h1>
+          <h1 className="title">Money Counter</h1>
         </div>
       </header>
 
