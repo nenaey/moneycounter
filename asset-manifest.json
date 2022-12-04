@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moneycounter/static/css/main.ba2fc408.css",
+    "main.js": "/moneycounter/static/js/main.cc0841cb.js",
+    "static/js/787.fda42759.chunk.js": "/moneycounter/static/js/787.fda42759.chunk.js",
+    "static/media/OneEGP.png": "/moneycounter/static/media/OneEGP.f9bba0be854cb4808d8f.png",
+    "static/media/FiveEGP.png": "/moneycounter/static/media/FiveEGP.60b66f396710131e1962.png",
+    "static/media/TenEGP.png": "/moneycounter/static/media/TenEGP.97b5f792765b775eb937.png",
+    "static/media/HundredEGP.jpg": "/moneycounter/static/media/HundredEGP.06faaf73d469d6692170.jpg",
+    "static/media/FiftyEGP.jpg": "/moneycounter/static/media/FiftyEGP.290b00285c78dd30d6ae.jpg",
+    "static/media/MintaSoftLogo.jpg": "/moneycounter/static/media/MintaSoftLogo.1b029006bd968baa45a6.jpg",
+    "static/media/TwentyEGP.jpg": "/moneycounter/static/media/TwentyEGP.8f62bd641f6ddc1ca054.jpg",
+    "static/media/TwoHundredEGP.jpg": "/moneycounter/static/media/TwoHundredEGP.e7368975a3badcf942dd.jpg",
+    "index.html": "/moneycounter/index.html",
+    "main.ba2fc408.css.map": "/moneycounter/static/css/main.ba2fc408.css.map",
+    "main.cc0841cb.js.map": "/moneycounter/static/js/main.cc0841cb.js.map",
+    "787.fda42759.chunk.js.map": "/moneycounter/static/js/787.fda42759.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2fc408.css",
+    "static/js/main.cc0841cb.js"
+  ]
+}
