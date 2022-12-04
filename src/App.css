@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  align-items: center;
 }
 
 .App-logo {
@@ -35,4 +36,69 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1{
+  margin: 40px;
+}
+.money-row{
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+}
+.money-input{
+  font-size: 36px;
+  font-weight: bold;
+  margin:20px;
+  text-align: center;
+  height: 60;
+  width: 100;
+
+}
+
+.money-image{
+  width: 250px;
+  height: 125px;
+  margin: 20px;
+}
+
+li{
+  list-style: none;
+}
+
+.header{
+  background-color: black;
+  height: 80px;
+  
+}
+
+.title{
+  color: yellow;
+}
+
+.total-section{
+  background-color: black;
+  height: 80px;
+  display: flex;
+  flex-grow: inherit;
+  justify-content: center;
+  vertical-align: middle;
+  align-items: center;
+ 
+
+}
+.total-statement{
+  color: yellow;
+  font-size: 44px;
+  margin-left: 500px;
+  margin-right: 300px;
+}
+.minta{
+  color: blue;
+}
+
+.minta-img{
+  height:70px;
+  width:120px;
+  float: left
 }
