@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/moneycounter/static/css/main.ba2fc408.css",
-    "main.js": "/moneycounter/static/js/main.cc0841cb.js",
+    "main.css": "/moneycounter/static/css/main.7cf88097.css",
+    "main.js": "/moneycounter/static/js/main.4cdd717d.js",
     "static/js/787.fda42759.chunk.js": "/moneycounter/static/js/787.fda42759.chunk.js",
     "static/media/OneEGP.png": "/moneycounter/static/media/OneEGP.f9bba0be854cb4808d8f.png",
     "static/media/FiveEGP.png": "/moneycounter/static/media/FiveEGP.60b66f396710131e1962.png",
@@ -12,12 +12,12 @@
     "static/media/TwentyEGP.jpg": "/moneycounter/static/media/TwentyEGP.8f62bd641f6ddc1ca054.jpg",
     "static/media/TwoHundredEGP.jpg": "/moneycounter/static/media/TwoHundredEGP.e7368975a3badcf942dd.jpg",
     "index.html": "/moneycounter/index.html",
-    "main.ba2fc408.css.map": "/moneycounter/static/css/main.ba2fc408.css.map",
-    "main.cc0841cb.js.map": "/moneycounter/static/js/main.cc0841cb.js.map",
+    "main.7cf88097.css.map": "/moneycounter/static/css/main.7cf88097.css.map",
+    "main.4cdd717d.js.map": "/moneycounter/static/js/main.4cdd717d.js.map",
     "787.fda42759.chunk.js.map": "/moneycounter/static/js/787.fda42759.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba2fc408.css",
-    "static/js/main.cc0841cb.js"
+    "static/css/main.7cf88097.css",
+    "static/js/main.4cdd717d.js"
   ]
 }
