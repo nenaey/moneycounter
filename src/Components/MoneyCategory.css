@@ -1,0 +1,30 @@
+.money-input{
+    font-size: 24px;
+    font-weight: bold;
+    margin:10px;
+    text-align: center;
+    height: 80px;
+    width: 90px;
+    background-color: yellow;
+    color: blue;
+  
+  }
+
+
+.money-row{
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-right: 40px;
+}
+
+
+.subtotal{
+    margin-left: 40px;
+}
+
+.money-image{
+    width: 250px;
+    height: 125px;
+    margin: 20px;
+  }

@@ -1,3 +1,4 @@
+import './MoneyCategory.css';
 import React from 'react'
 import { useState } from 'react'
 
@@ -20,10 +21,10 @@ const MoneyCategory = ({moneyType, totalValueHandler}) => {
           <input
           className="money-input"
           type="text"
-          placeholder="How many?"
+          placeholder="Count?!"
           onChange={moneyValueHandler}
           ></input>
-          <h1>{moneyValue * moneyType.category}</h1>
+          <h1 className='subtotal'>{moneyValue * moneyType.category}</h1>
     </div>
    
   )

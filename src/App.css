@@ -1,104 +1,81 @@
 .App {
+  border: 0px;
+  padding: 0px;
+  width: 100%;
   text-align: center;
   align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.main-header{
+  margin-top: 0px;
+  width: 100%;
+  position: fixed;
+  
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.app-heart{
+  width:60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  margin-top: 100px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
-h1{
-  margin: 40px;
-}
-.money-row{
-  display: flex;
-  flex-direction: row;
-  justify-content:center;
-}
-.money-input{
-  font-size: 36px;
-  font-weight: bold;
-  margin:20px;
-  text-align: center;
-  height: 60;
-  width: 100;
-
-}
-
-.money-image{
-  width: 250px;
-  height: 125px;
-  margin: 20px;
-}
 
 li{
   list-style: none;
 }
 
-.header{
+.main-header{
   background-color: black;
   height: 80px;
+  top: 0px;
+  width: 100%;
   
 }
 
 .title{
   color: yellow;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 44px;
+  margin-top: 10px;
 }
 
 .total-section{
   background-color: black;
+  bottom: 0;
   height: 80px;
   display: flex;
-  flex-grow: inherit;
-  justify-content: center;
-  vertical-align: middle;
-  align-items: center;
- 
-
+  flex-direction: row;
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  margin-top: auto;
+  
 }
 .total-statement{
   color: yellow;
   font-size: 44px;
-  margin-left: 500px;
-  margin-right: 300px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+ 
 }
 .minta{
   color: blue;
+  float:right ;
 }
 
 .minta-img{
   height:70px;
   width:120px;
-  float: left
+  float: left;
+  margin-left: 10px;
 }

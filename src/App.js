@@ -42,12 +42,12 @@ function App() {
   return (
     <div className="App">
       <header>
-        <div className="header">
+        <div className="main-header">
           <h1 className="title">Money Counter</h1>
         </div>
       </header>
 
-      <div>
+      <div className="app-heart">
 
         {money.map((moneyType)=>{
           return(
@@ -58,6 +58,7 @@ function App() {
         })
         }
         </div>
+
         <div className="total-section">
           <img className="minta-img" src={MintaSoftLogo} alt="MintaSoftLogo"/>
           <h1 className="total-statement">Total is: {updatedTotalValue} EGP</h1>
